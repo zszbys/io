@@ -1,0 +1,4 @@
+- name: imgcmp
+  # You may pin to the exact commit or the version.
+  # uses: 9sako6/imgcmp@9c612bcec3761a10de71aefb113b2d140b8ad195
+  uses: 9sako6/imgcmp@1.0.0
